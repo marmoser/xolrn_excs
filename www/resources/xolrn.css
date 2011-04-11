@@ -1,0 +1,95 @@
+/* .xowiki-content .correct:after {content: " -- ok";}*/
+form.feedback .correct {border: 1px dotted green; background-color: #aaffaa;}
+
+/* .xowiki-content .incorrect:after {content: "-- wrong";}*/
+form.feedback .incorrect {border: 1px dotted red; background-color: #ffaaaa;}
+
+form.feedback div.form-required-mark {display:none;}
+
+div.feedback {border: 1px dotted white; background-color: #BFD5EA;}
+
+.content-with-folders th, .content-with-folders td {
+border:0px;
+padding:0em;
+}
+
+
+
+/*******************/
+div.xowiki-content {
+    font-size:100%;
+}
+
+#menubar {
+    margin-bottom:2em;
+}
+
+/********* FORMS ************/
+
+/*Label */
+div.xowiki-content .content-with-folders div.form-label {
+display:block;
+float:left;
+font-weight:bold;
+text-align:right;
+width:14em;
+}
+
+/*Label required*/
+div.xowiki-content .content-with-folders div.form-label .form-required-mark {
+    font-weight:normal;
+}
+
+/*Single formfield*/
+div.xowiki-content .content-with-folders div.form-widget, div.xowiki-content .content-with-folders .form-button, div.xowiki-content .content-with-folders .form-widget-error, div.xowiki-content .content-with-folders .form-error {
+    margin-left:15em;
+}
+
+/* [i] */
+div.xowiki-content .content-with-folders .form-help-text {
+    margin-left:18em;
+}
+
+/* Form item */
+.form-item-wrapper {
+    margin-bottom:1em;
+}
+
+/*Fieldset within form */
+div.xowiki-content fieldset.compound-field {
+    padding:0.1em;
+}
+div.xowiki-content fieldset.compound-field label {
+    font-weight:normal;
+    
+}
+div.xowiki-content fieldset.compound-field .form-label {
+    margin-bottom:1em;
+}
+
+.xinha {
+    width:100%;
+    min-height:30px;
+    background-color:#eee;
+    
+}
+    
+
+/* YUI RE_SPECIFICATIONS */
+
+table.ygtvtable{margin-bottom:0;border:none;border-collapse:collapse;}
+td.ygtvcell{border:none;padding:0;}
+a.ygtvspacer{text-decoration:none;outline-style:none;display:block;}
+a.ygtvspacer:hover{background-color:transparent;}
+.ygtvtn{cursor:pointer;}
+.ygtvln{cursor:pointer;}
+/*.ygtvlm{background:url(/resources/ajaxhelper/yui/treeview/assets/folders/lm.gif) 0 0 no-repeat;width:34px;height:22px;cursor:pointer;}*/
+
+.ygtv-highlight .ygtv-highlight1,.ygtv-highlight .ygtv-highlight1 .ygtvlabel{background-color:blue;color:white;}
+.ygtv-highlight .ygtv-highlight2,.ygtv-highlight .ygtv-highlight2 .ygtvlabel{background-color:silver;}
+.ygtv-highlight .ygtv-highlight0 .ygtvfocus .ygtvlabel,.ygtv-highlight .ygtv-highlight1 .ygtvfocus .ygtvlabel,.ygtv-highlight .ygtv-highlight2 .ygtvfocus .ygtvlabel{background-color:#c0e0e0;}
+.ygtv-highlight .ygtvcontent{padding-right:1em;}
+.ygtv-checkbox .ygtv-highlight0 .ygtvcontent{padding-left:1em;background:url(/resources/ajaxhelper/yui/treeview/assets/skins/sam/check0.gif) no-repeat;}
+.ygtv-checkbox .ygtv-highlight0 .ygtvfocus.ygtvcontent,.ygtv-checkbox .ygtv-highlight1 .ygtvfocus.ygtvcontent,.ygtv-checkbox .ygtv-highlight2 .ygtvfocus.ygtvcontent{background-color:#c0e0e0;}
+.ygtv-checkbox .ygtv-highlight1 .ygtvcontent{padding-left:1em;background:url(/resources/ajaxhelper/yui/treeview/assets/skins/sam/check1.gif) no-repeat;}
+.ygtv-checkbox .ygtv-highlight2 .ygtvcontent{padding-left:1em;background:url(/resources/ajaxhelper/yui/treeview/assets/skins/sam/check2.gif) no-repeat;}

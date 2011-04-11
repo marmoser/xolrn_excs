@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="xolrn_excs" locale="de_DE" charset="ISO-8859-1">
+<msg key="Last-Modified">Zuletzt bearbeitet</msg>
+<msg key="tries">Anzahl Versuche</msg>
+<msg key="points">Punkte</msg>
+<msg key='title'>Aufgabe</msg>
+<msg key='totaltries'>Gesamtanzahl Versuche</msg>
+<msg key='totalsubmitted'>Gesamtanzahl Abgaben</msg>
+<msg key='students'>Anzahl Studierender</msg>
+<msg key='avgpoints'>ø Punkte</msg>
+<msg key='showanswers'>Antworten zeigen</msg>
+<msg key='exercise'>Kontrollfrage</msg>
+<msg key='section'>Aggregierte Frage</msg>
+<msg key='assignment'>Freigabe</msg>
+<msg key='assignments'>Freigaben</msg>
+<msg key='folder'>Unterordner</msg>
+<msg key='name'>Kurzbezeichnung</msg>
+<msg key='visiblename'>sichtbarer Name</msg>
+<msg key='questiontype'>Fragetyp</msg>
+<msg key='nrofchoices'>Antwortalternativen</msg>
+<msg key='feedbacklevel'>Grad des Feedbacks</msg>
+<msg key='fullfeedback'>Für jede Antwortalternative</msg>
+<msg key='somefeedback'>Für gesamte Frage</msg>
+<msg key='nofeedback'>kein Feedback</msg>
+<msg key='opentext'>offene Textfrage</msg>
+<msg key='gaptext'>Lückentext</msg>
+<msg key='matching'>Zuordnungsaufgabe</msg>
+<msg key='order'>Reihungsaufgabe</msg>
+<msg key='slider'>Schieberegler-Aufgabe</msg>
+<msg key='adaptive'>adaptive Bewertung</msg>
+<msg key='penalty'>Punkteabzug für falsche Antwort</msg>
+<msg key='shuffle'>Antwortalternativen mischen</msg>
+<msg key='scoring'>Bewertungsmethode</msg>
+<msg key='feedback_incorrect'>Feedback falsche Antwort</msg>
+<msg key='feedback_correct'>Feedback richtige Antwort</msg>
+<msg key='simplescore'>Einfache Bewertung</msg>
+<msg key='wi_multiplechoice'>WI Multiplechoice Bewertungsschema</msg>
+<msg key='wi_multiplechoice_mix'>WI Multiplechoice Bewertungsschema Mix</msg>
+<msg key='score_fractionpoints'>Gnädiges Teilpunkte Bewertungsschema</msg>
+<msg key='score_fractionpoints_sub'>Ungnädiges Teilpunkte Bewertungsschema</msg>
+<msg key='correct'>Richtig?</msg>
+<msg key='exercise-text'>Angabetext</msg>
+<msg key='assignment-selector'>Aufgabenauswahl (drag &amp; drop)</msg>
+<msg key='exercises'>Kontrollfragen</msg>
+<msg key='exam'>Musterklausur</msg>
+<msg key='homework'>Hausübung</msg>
+<msg key='available-from'>Freigeschaltet ab</msg>
+<msg key='available-until'>Freigeschaltet bis</msg>
+<msg key='requirement'>Voraussetzung</msg>
+<msg key='assignment-selector-select'>Aufgabenauswahl</msg>
+<msg key='package_name'>Lernfortschrittskontrolle neu</msg>
+
+
+</message_catalog>

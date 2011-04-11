@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<message_catalog package_key="xolrn_excs" locale="en_US" charset="ISO-8859-1">
+<msg key="Last-Modified">Last modified</msg>
+<msg key="tries">Tries until correct</msg>
+<msg key="points">Score</msg>
+<msg key='title'>Exercise</msg>
+<msg key='totaltries'>Total nr. of tries</msg>
+<msg key='totalsubmitted'>Total submitted exercises</msg>
+<msg key='students'>Number of students</msg>
+<msg key='avgpoints'>Avg. score</msg>
+<msg key='showanswers'>Show answers</msg>
+<msg key='exercise'>Exercise</msg>
+<msg key='section'>Section</msg>
+<msg key='assignment'>Assignment</msg>
+<msg key='assignments'>Assignments</msg>
+<msg key='folder'>Subfolder</msg>
+<msg key='name'>Identifier</msg>
+<msg key='visiblename'>Visible Description</msg>
+<msg key='questiontype'>Question Type</msg>
+<msg key='nrofchoices'>Alternative answers</msg>
+<msg key='feedbacklevel'>Level of feedback detail</msg>
+<msg key='fullfeedback'>Feedback for every answer alternative</msg>
+<msg key='somefeedback'>Feedback for whole question</msg>
+<msg key='nofeedback'>no Feedback</msg>
+<msg key='opentext'>Opentext</msg>
+<msg key='gaptext'>Gaptext</msg>
+<msg key='matching'>Matching</msg>
+<msg key='order'>Order</msg>
+<msg key='slider'>Slider</msg>
+<msg key='adaptive'>adaptive Scoring</msg>
+<msg key='penalty'>Penalty for wrong answer</msg>
+<msg key='shuffle'>shuffle Alternatives</msg>
+<msg key='scoring'>Scoring method</msg>
+<msg key='feedback_incorrect'>Feedback for incorrect answer</msg>
+<msg key='feedback_correct'>Feedback for correct answer</msg>
+<msg key='simplescore'>Einfache Bewertung</msg>
+<msg key='wi_multiplechoice'>WI Multiplechoice Grading Scheme</msg>
+<msg key='wi_multiplechoice_mix'>WI Multiplechoice Grading Scheme Mix</msg>
+<msg key='score_fractionpoints'>Mercyful Grading Scheme</msg>
+<msg key='score_fractionpoints_sub'>Unmercyful Grading Scheme</msg>
+<msg key='correct'>Correct?</msg>
+<msg key='exercise-text'>Exercise Text</msg>
+<msg key='assignment-selector'>Exercise Selector (drag &amp; drop)</msg>
+<msg key='exercises'>Exercises</msg>
+<msg key='exam'>Sample exam</msg>
+<msg key='homework'>Homework</msg>
+<msg key='available-from'>Available from</msg>
+<msg key='available-until'>Available until</msg>
+<msg key='requirement'>Requirement</msg>
+<msg key='assignment-selector-select'>Exercise Selector</msg>
+<msg key='package_name'>New Exercises module</msg>
+
+</message_catalog>

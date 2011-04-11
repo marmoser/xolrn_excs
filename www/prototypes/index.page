@@ -1,0 +1,11 @@
+::xowiki::Object new -title "Index Page" -text {
+
+proc content {} {
+	ad_returnredirect assignments
+}
+
+}
+
+
+
+
